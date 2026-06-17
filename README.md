@@ -203,6 +203,12 @@ When CPU utilization exceeds the threshold, additional instances are launched au
 * CI/CD Pipeline using GitHub Actions.
 * Container Deployment using Docker and ECS.
 
+## Note
+
+AWS requires billing activation to create EC2 instances, Load Balancers, and Auto Scaling Groups.
+
+Due to billing restrictions on the current AWS account, a live implementation could not be performed. This repository demonstrates the complete architecture, configuration process, implementation steps, and expected outcomes of ELB and Auto Scaling deployment.
+
 ---
 
 ##  Conclusion
