@@ -1,14 +1,7 @@
 # Implementation Report
 
 # AWS Elastic Load Balancer (ELB) and Auto Scaling Group (ASG)
-
-## Submitted By
-
-**Adnan Akhtar**
-
-
 ---
-
 # 1. Introduction
 
 Cloud computing has transformed the way applications are deployed and managed. Modern applications require high availability, scalability, and fault tolerance to handle varying workloads efficiently.
