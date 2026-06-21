@@ -289,5 +289,4 @@ This project successfully demonstrates the architecture, configuration process, 
 ## Author
 
 **Adnan Akhtar**
-Computer Science Engineering Student
-Quest Group of Institutions
+
