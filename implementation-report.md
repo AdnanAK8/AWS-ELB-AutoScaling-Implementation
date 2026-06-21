@@ -5,7 +5,7 @@
 ## Submitted By
 
 **Adnan Akhtar**
-Computer Science Engineering Student
+
 
 ---
 
